@@ -28,9 +28,9 @@ const Navbar = () => {
       <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <a href="#" style={{ fontSize: '1.5rem', fontWeight: '800', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <div style={{ width: '30px', height: '30px', background: 'linear-gradient(45deg, #7000ff, #00c6ff)', borderRadius: '8px' }}></div>
-          Mirage <span className="gradient-text">AI</span>
+          :imagine <span className="gradient-text">AI</span>
         </a>
-        
+
         <div style={{ display: 'flex', gap: '2rem', alignItems: 'center' }} className="nav-links">
           <a href="#features" style={{ color: 'var(--text-secondary)', fontWeight: '500', transition: 'color 0.2s' }}>Features</a>
           <a href="#gallery" style={{ color: 'var(--text-secondary)', fontWeight: '500', transition: 'color 0.2s' }}>Gallery</a>

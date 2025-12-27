@@ -16,7 +16,7 @@ const Gallery = () => {
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'end', marginBottom: '4rem' }}>
                     <div>
                         <h2 style={{ fontSize: '3rem', fontWeight: '800', marginBottom: '1rem' }}>
-                            Made with <span className="gradient-text">Mirage</span>
+                            Made with <span className="gradient-text">:imagine</span>
                         </h2>
                         <p style={{ color: 'var(--text-secondary)', fontSize: '1.1rem' }}>Explore community creations.</p>
                     </div>

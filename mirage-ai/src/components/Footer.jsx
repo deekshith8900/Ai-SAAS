@@ -7,7 +7,7 @@ const Footer = () => {
                 <div>
                     <a href="#" style={{ fontSize: '1.5rem', fontWeight: '800', display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem' }}>
                         <div style={{ width: '24px', height: '24px', background: 'linear-gradient(45deg, #7000ff, #00c6ff)', borderRadius: '6px' }}></div>
-                        Mirage <span className="gradient-text">AI</span>
+                        :imagine <span className="gradient-text">AI</span>
                     </a>
                     <p style={{ color: 'var(--text-secondary)' }}>
                         Empowering creators with the most advanced AI image generation technology.
@@ -45,7 +45,7 @@ const Footer = () => {
             </div>
 
             <div className="container" style={{ borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '2rem', textAlign: 'center', color: 'var(--text-secondary)' }}>
-                <p>&copy; {new Date().getFullYear()} Mirage AI. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} :imagine AI. All rights reserved.</p>
             </div>
         </footer>
     );
